@@ -2156,9 +2156,9 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url("../../images/slide4.png");
+		background: #FFFFFF url("../../images/slides03.jpg");
 		background-position: center center;
-		background-size: auto 145%;
+		background-size: auto ;
 		background-repeat: no-repeat;
 		text-align: center;
 	
